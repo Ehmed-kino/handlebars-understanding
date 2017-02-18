@@ -17,7 +17,7 @@ app.get('/code/:code', (req, res) => {
   });
 
 console.log(statusCode);
-  res.render('main');s
+  res.render('main');
 }); // get method
 
 
